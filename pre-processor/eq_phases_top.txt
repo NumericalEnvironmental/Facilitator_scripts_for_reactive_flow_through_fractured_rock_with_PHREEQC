@@ -1,0 +1,17 @@
+EQUILIBRIUM_PHASES 1 20
+    CO2(g)    -2.5 10
+    Calcite   0 0.3
+    Dolomite-dis 0 0.3
+    O2(g)     -0.7 100
+    Goethite  0  0
+    Gypsum 0  0
+    Tenorite 0  0
+    Brochantite  0  0
+    Malachite 0 0
+    Azurite   0 0
+    Cuprite   0 0
+    Bornite   0 0
+    Cu        0 0
+    Covellite 0 0
+    Chalcocite 0 0
+

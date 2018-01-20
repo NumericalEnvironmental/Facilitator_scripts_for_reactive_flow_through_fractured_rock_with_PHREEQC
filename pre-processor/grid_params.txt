@@ -1,0 +1,10 @@
+De	1.00E-10
+nz	40
+nx	5
+dz	1.
+dx	0.025
+w       0.005
+dt	2.0
+nShifts	1000
+alpha 	1.
+theta 	20.
