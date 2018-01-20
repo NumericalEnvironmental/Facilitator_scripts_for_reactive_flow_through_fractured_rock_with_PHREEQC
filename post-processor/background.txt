@@ -1,0 +1,9 @@
+Calcite	0.3
+Dolomite-dis	0.3
+Gypsum	0
+Tenorite	0
+Brochantite	0
+Goethite	0
+sec_Cu_sulfides	0
+delta_k_Pyrite	0
+delta_k_Chalcopyrite	0

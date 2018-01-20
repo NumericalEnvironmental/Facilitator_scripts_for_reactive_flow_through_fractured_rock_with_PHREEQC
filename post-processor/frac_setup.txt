@@ -1,0 +1,3 @@
+fracture(file)	nz	nx	ny	dz	dx	dy	w	phi(dip_deg)	theta(strike_deg)	datum	y0	grid_x_intercept	nz_divide
+dt2.txt	40	5	25	1	0.025	0.25	0.005	70	30	20	-2.5	0.8	2
+dt10.txt	40	5	25	1	0.025	0.25	0.01	70	30	20	-2.5	1.75	2

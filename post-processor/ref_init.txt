@@ -1,0 +1,3 @@
+phase	moles0
+k_Pyrite  2.0
+k_Chalcopyrite  0.625
